@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "天云小屋" # 标题
-title_separator          : "-"
+title_separator          : "he"
 name                     : &name "Tianyun"
 description              : &description "分享资源"
 url                      : https://tianyun233.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
