@@ -21,7 +21,7 @@ repository               : "Tianyun233/Tianyun233.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2024/12/03/pAIXM24.jpg"
   name             : "Tianyun"
   pronouns         :  "he" # example: "she/her"  
   bio              : "编程小白"
