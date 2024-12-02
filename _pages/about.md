@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-随缘分享
+欢迎来到我的网站，随缘分享
