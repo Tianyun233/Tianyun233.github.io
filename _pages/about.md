@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tianyun的小窝"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Tianyun的小窝
+随缘分享
