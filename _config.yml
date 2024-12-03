@@ -257,7 +257,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: kexueshangwang
     values:
       layout: single
       author_profile: true
