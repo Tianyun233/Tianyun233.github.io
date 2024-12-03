@@ -20,7 +20,7 @@ redirect_from:
 
 [tiktok](tiktok.com)  /[禁漫](18comic.vip)  /[哔咔](mahuabika.com)  /[ce修改器](https://www.cheatengine.org/downloads.php)  
 
-[porndude](theporndude.com)奇妙小导航   /[krkr模拟器](https://github.com/zeas2/Kirikiroid2/releases)安卓玩游戏
+[porndude](theporndude.com)肾虚导航   /[krkr模拟器](https://github.com/zeas2/Kirikiroid2/releases)安卓玩游戏  /[ACG盒子](https://www.acgbox.link/)二次元导航
 
 影视
 
