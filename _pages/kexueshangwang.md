@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "科学上网"
-permalink: /kexueshnagwang/
+permalink: /
 author_profile: true
 redirect_from:
   - /resume
